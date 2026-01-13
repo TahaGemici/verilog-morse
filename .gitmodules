@@ -1,0 +1,3 @@
+[submodule "sync_fifo"]
+	path = abc
+	url = https://github.com/TahaGemici/verilog-modules/blob/main/fifo/sync_fifo.v
