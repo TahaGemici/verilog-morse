@@ -23,7 +23,7 @@ jobs:
     
     - name: Install Symbolator
       run: |
-        pip install git+https://github.com/wallento/symbolator.git
+        pip install git+https://github.com/kevinpt/symbolator.git
     
     - name: Generate block diagrams
       run: |
